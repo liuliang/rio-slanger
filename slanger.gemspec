@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = "A websocket service compatible with Pusher libraries"
   spec.description = "The Rio Slanger inherits from unmaintained project Slanger and continue to provide update and fixes"
-  spec.homepage = "https://github.com/liuliang/slanger"
+  spec.homepage = "https://github.com/liuliang/rio-slanger"
   spec.license = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.6.3")
 
